@@ -70,4 +70,4 @@ If the input is a valid event, the AI will generate a confirmation message and a
 This AI agent showcases the power of **prompt chaining** to break down complex natural language inputs into structured event details. By iteratively processing information, it ensures high accuracy and seamless user experience in scheduling calendar events.
 
 ---
-Developed by: [Your Name]
+Developed by: Muhammad Nagy
