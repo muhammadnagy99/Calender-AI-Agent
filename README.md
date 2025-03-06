@@ -34,7 +34,7 @@ This stepwise approach improves the accuracy and reliability of the AI's respons
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/Calender-AI-Agent.git
-   cd calendar-ai-agent
+   cd Calender-AI-Agent
    ```
 2. Install dependencies:
    ```bash
