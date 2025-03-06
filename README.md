@@ -13,11 +13,15 @@ An AI agent is a software system that perceives its environment, processes input
 - **Logging & Debugging**: Uses Python’s logging module for enhanced debugging and transparency.
 
 ## Prompt Chaining Workflow
+
+![Prompt Chaining Workflow](flow.jpg)
+
 The agent follows a **three-step prompt chaining approach** to systematically extract and process information:
 
 1. **Event Extraction**: The first AI call determines if the input describes a calendar event with a confidence score.
 2. **Event Details Parsing**: If identified as a calendar event, a second AI call extracts specific details like date, time, and participants.
 3. **Confirmation Generation**: The final AI call formats a confirmation message, ensuring clarity and usability for the user.
+
 
 This stepwise approach improves the accuracy and reliability of the AI's responses.
 
